@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "crm": {
+      "serverUrl": "https://api.supersei.com/mcp"
+    }
+  }
+}

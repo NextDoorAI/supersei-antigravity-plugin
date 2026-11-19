@@ -1,0 +1,29 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "supersei",
+  "displayName": "Supersei CRM",
+  "version": "1.0.0",
+  "description": "Run your Supersei CRM from Antigravity: find and update leads, read WhatsApp and email history, manage tasks and meetings, and see your pipeline.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "What follow-ups am I late on today?",
+    "Show my newest leads and their pipeline stage.",
+    "Summarise the WhatsApp and email history with my most recent lead."
+  ],
+  "author": {
+    "name": "Supersei",
+    "email": "hello@supersei.ai",
+    "url": "https://supersei.ai"
+  },
+  "homepage": "https://supersei.ai",
+  "repository": "https://github.com/NextDoorAI/supersei-antigravity-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "crm",
+    "sales",
+    "leads",
+    "whatsapp",
+    "pipeline",
+    "supersei"
+  ]
+}
